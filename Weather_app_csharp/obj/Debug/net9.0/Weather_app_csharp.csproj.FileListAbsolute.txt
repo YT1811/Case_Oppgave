@@ -1,0 +1,14 @@
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\bin\Debug\net9.0\Weather_app_csharp.exe
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\bin\Debug\net9.0\Weather_app_csharp.deps.json
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\bin\Debug\net9.0\Weather_app_csharp.runtimeconfig.json
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\bin\Debug\net9.0\Weather_app_csharp.dll
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\bin\Debug\net9.0\Weather_app_csharp.pdb
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\obj\Debug\net9.0\Weather_app_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\obj\Debug\net9.0\Weather_app_csharp.AssemblyInfoInputs.cache
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\obj\Debug\net9.0\Weather_app_csharp.AssemblyInfo.cs
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\obj\Debug\net9.0\Weather_app_csharp.csproj.CoreCompileInputs.cache
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\obj\Debug\net9.0\Weather_app_csharp.dll
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\obj\Debug\net9.0\refint\Weather_app_csharp.dll
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\obj\Debug\net9.0\Weather_app_csharp.pdb
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\obj\Debug\net9.0\Weather_app_csharp.genruntimeconfig.cache
+C:\Users\yoely\OneDrive\Skrivebord\Skoleprosjekter\Weather_app_csharp\obj\Debug\net9.0\ref\Weather_app_csharp.dll

@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .weather-container {
+    padding: 20px;
+    border-radius: 10px;
+    height: 130px;
+    width: 300px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    transition: background-color 1s ease;
+    border: 10px solid transparent;
+    border-image: linear-gradient(to right, skyblue, blue) 1;
+  }
+  
+  .weather-text {
+    font-size: 20px;
+    margin: 10px 0;
+    z-index: 2;
+    position: relative;
+    color: white;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+  }
+  
+  #warning {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    display: none;
+    text-shadow: 1px 1px 2px rgb(255, 255, 255);
+    position: absolute; /* Positioning the warning absolute within the weather-container */
+    bottom: -40px; /* Adjust this value to push the warning message below the container */
+    left: 50%;
+    transform: translateX(-50%); /* Center the warning message */
+    z-index: 10;
+  }
+  
+  .weather-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+  
+  .warning-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+  }  
