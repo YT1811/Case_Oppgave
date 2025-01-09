@@ -39,7 +39,7 @@ let weather = {
     const warningElement = document.getElementById("warning");
     const weatherImage = document.getElementById("weather-image");
     const headline = document.getElementById("weather-headline");
-    const weatherDisplay = document.getElementById("weather-display"); // Correctly define the container element
+    const weatherDisplay = document.getElementById("weather-display"); 
   
     // Update the weather information
     tempElement.innerText = `Temperature: ${weather.temperature}°C`;
@@ -47,7 +47,7 @@ let weather = {
     cloudinessElement.innerText = `Cloudiness: ${weather.cloudCoverage}%`;
   
     // Set the weather image based on the current condition
-    weatherImage.src = WEATHER_IMAGES[weather.condition] || "images/default.png"; // Default image if no match
+    weatherImage.src = WEATHER_IMAGES[weather.condition] || "images/default.png"; 
   
     // Add weather conditions to the weather container
     weatherDisplay.classList.remove("weather-clear", "weather-rain", "weather-snow");
