@@ -34,10 +34,10 @@ body {
     border-radius: 5px;
     display: none;
     text-shadow: 1px 1px 2px rgb(255, 255, 255);
-    position: absolute; /* Positioning the warning absolute within the weather-container */
-    bottom: -40px; /* Adjust this value to push the warning message below the container */
+    position: absolute; 
+    bottom: -40px; 
     left: 50%;
-    transform: translateX(-50%); /* Center the warning message */
+    transform: translateX(-50%); 
     z-index: 10;
   }
   
